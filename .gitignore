@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# PyTorch
+*.pth
+*.pt
+
+# Results and logs
+results/
+logs/
+*.log
+tensorboard_logs/
+
+# Data (too large for git)
+*.pkl
+*.pickle
+*.mp4
+*.avi
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+latex/*.aux
+latex/*.log
+latex/*.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
