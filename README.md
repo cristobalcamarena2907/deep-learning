@@ -49,7 +49,7 @@ python compare_models.py \
 - **Baseline LSTM**: 34.76% accuracy (20 épocas)
 - **ST-GCN**: 14.06% accuracy (1 época - limitaciones computacionales)
 
-Los resultados completos están documentados en `latex/report.pdf`.
+Los resultados completos están documentados en `Deep-Learning.pdf`.
 
 ## Dataset
 
